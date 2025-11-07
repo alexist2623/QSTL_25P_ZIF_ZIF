@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-16042024-017160";"";
+"REFERENCE";"5025985193";"";
+"TraceParts.PartTitle";"Easy-On";"";
+"TraceParts.InstanceId";"90-16042024-0171602N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Easy-On Back Flip FPC Connector, 0.30mm Pitch, Right-Angle, Surface Mount, Dual Contact Style, 1.15mm Mated Height, 51 Circuits";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.5";"";
