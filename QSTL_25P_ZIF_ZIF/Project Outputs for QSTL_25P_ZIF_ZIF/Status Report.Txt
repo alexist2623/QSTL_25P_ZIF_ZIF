@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QSTL_25P_ZIF_ZIF.PrjPcb]
+   Generated File[QSTL_25P_ZIF_ZIF.TXT]
+   Generated File[QSTL_25P_ZIF_ZIF.LDP]
+   Generated File[QSTL_25P_ZIF_ZIF.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:30:12 AM On 2025-11-14
